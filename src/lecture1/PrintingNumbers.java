@@ -43,7 +43,7 @@ public class PrintingNumbers {
 
   static void recursion(int i) {
     // In the lecture I recommended always writing braces for an if-statement in order to make your
-    // code easier to read in future. And also to avoid misintepretation from bad-intentation. I
+    // code easier to read in future. And also to avoid misintepretation from bad-indentation. I
     // also talked about the importance of regular indentation to make the structure of your code
     // clear. For this course I am not prescribing what particular layout style you use - just be
     // consistent.
